@@ -1,4 +1,4 @@
-const myName = "Nasyx Rakeeb";
+const myName = "seerat jaan";
 const myAge = 22;
 const myProfession = "Dev5";
 const myAddress = "JK";
